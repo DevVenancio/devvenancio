@@ -6,7 +6,7 @@
 
 ###
 
-<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZlbnIyMTRuN2xrbzljdWhkb2MyYzlmbGNrMDk4c2N3MmswdmtpZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YQitE4YNQNahy/giphy.gif"  />
+<img align="left" height="250" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif"  />
 
 ###
 
@@ -48,8 +48,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/DevVenancio/DevVenancio/output/snake.svg" alt="Snake animation" />
-
-###
