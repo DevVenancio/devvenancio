@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hello Humans, I'm João Pedro :)</h2>
+<h2 align="left">Hello Humans 👋🏻, I'm João Pedro :)</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">⚙️ Tech Stack</h2>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h2 align="left">Social Medias</h2>
+<h2 align="left">👤 Social Medias</h2>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="left">Stats</h2>
+<h2 align="left">📊 Stats</h2>
 
 ###
 
