@@ -6,7 +6,7 @@
 
 <br clear="both">
 
-<p align="left">Sou um Software Developer apaixonado por Game Developer e tudo mais que seja relacionado à game no geral. Comecei essa minha aventura no mundo da programação através de um pequeno projeto de robótica que eu participei na escola, me levando a explorar cada vez mais esse incrível mundo e me apaixonar pela programação.<br><br>Todos os meus projetos presentes no meu GitHub (em sua maioria) são projetos pessoais e de minha autoria.</p>
+<p align="left">Software Developer apaixonado por Game Developer e tudo mais que seja relacionado à desenvolvimento no geral. Comecei essa minha aventura no mundo da programação através de um pequeno projeto de robótica que eu participei na escola, me levando a explorar cada vez mais esse incrível mundo e me apaixonar pela programação.<br><br>Todos os meus projetos presentes no meu GitHub (em sua maioria) são projetos pessoais e de minha autoria.</p>
 
 ###
 
